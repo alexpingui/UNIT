@@ -1,0 +1,73 @@
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe.config
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).pdb
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.AssemblyReference.cache
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.GenerateResource.cache
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.CoreCompileInputs.cache
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).exe
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).pdb
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Form1.resources
+D:\VisualStudioProjects\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Form1.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).pdb
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe.config
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).pdb
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Form1.resources
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Properties.Resources.resources
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.GenerateResource.cache
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).exe
+C:\Users\User\Desktop\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).pdb
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe.config
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).pdb
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.AssemblyReference.cache
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Form1.resources
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Properties.Resources.resources
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.GenerateResource.cache
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).exe
+C:\Users\User\Desktop\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Form1.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT (rebuild) (2)\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.MainMenu.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).pdb
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Form1.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.MainMenu.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).pdb
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe.config
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\bin\Debug\UNIT (rebuild).pdb
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.AssemblyReference.cache
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Form1.resources
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.MainMenu.resources
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT_rebuild.Properties.Resources.resources
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.GenerateResource.cache
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).csproj.CoreCompileInputs.cache
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).exe
+C:\Users\Asus\OneDrive\Рабочий стол\KASU\C#\Лабороторки\Лабороторки 2 курс\UNIT\UNIT FINAL\UNIT (rebuild)\UNIT (rebuild)\obj\Debug\UNIT (rebuild).pdb

@@ -1,0 +1,324 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\kasu\\c#\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\unit\\unit final\\unit (rebuild)\\unit (rebuild)\\mapobjects\\obstacles\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\mapobjects\\obstacles\\finish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\engine\\physics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\engine\\physics.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\engine\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\engine\\level.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\kasu\\c#\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\unit\\unit final\\unit (rebuild)\\unit (rebuild)\\mapobjects\\samples\\orbsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\mapobjects\\samples\\orbsample.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\kasu\\c#\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\unit\\unit final\\unit (rebuild)\\unit (rebuild)\\mapobjects\\obstacles\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\mapobjects\\obstacles\\start.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\mapobjects\\obstacles\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\mapobjects\\obstacles\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\kasu\\c#\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\unit\\unit final\\unit (rebuild)\\unit (rebuild)\\enums\\obstacletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\enums\\obstacletype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|c:\\users\\asus\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\kasu\\c#\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u043B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\unit\\unit final\\unit (rebuild)\\unit (rebuild)\\enums\\padtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\enums\\padtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\transform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|UNIT (rebuild)||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\mapobjects\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\mapobjects\\ground.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\mapobjects\\uniter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\mapobjects\\uniter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\maps\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\maps\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\maps\\map_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\maps\\map_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\unit (rebuild)\\engine\\interfaces\\icollide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}|UNIT (rebuild)\\UNIT (rebuild).csproj|solutionrelative:unit (rebuild)\\engine\\interfaces\\icollide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Finish.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Obstacles\\Finish.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\MapObjects\\Obstacles\\Finish.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Obstacles\\Finish.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\MapObjects\\Obstacles\\Finish.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAowFIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:40:10.401Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PadType.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Enums\\PadType.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Enums\\PadType.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Enums\\PadType.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Enums\\PadType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:31:02.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Level.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Engine\\Level.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Engine\\Level.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Engine\\Level.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Engine\\Level.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Physics.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Engine\\Physics.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Engine\\Physics.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Engine\\Physics.cs*",
+              "RelativeToolTip": "UNIT (rebuild)\\Engine\\Physics.cs*",
+              "ViewState": "AQIAAI8AAAAAAAAAAAAcwEwAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Program.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Program.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Transform.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Transform.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Transform.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Transform.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Transform.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Form1.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "UNIT (rebuild)\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.77Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Form1.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Form1.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Form1.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Form1.cs",
+              "ViewState": "AQIAAG4AAAAAAAAAAAAiwGAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.767Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ObstacleType.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Enums\\ObstacleType.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Enums\\ObstacleType.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Enums\\ObstacleType.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Enums\\ObstacleType.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:31:04.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Start.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Obstacles\\Start.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\MapObjects\\Obstacles\\Start.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Obstacles\\Start.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\MapObjects\\Obstacles\\Start.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:32:27.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrbSample.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Samples\\OrbSample.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\MapObjects\\Samples\\OrbSample.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Samples\\OrbSample.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\MapObjects\\Samples\\OrbSample.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T11:32:42.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MAP_1.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Maps\\MAP_1.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Maps\\MAP_1.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Maps\\MAP_1.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Maps\\MAP_1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Obstacles\\Block.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\MapObjects\\Obstacles\\Block.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Obstacles\\Block.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\MapObjects\\Obstacles\\Block.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UNIT (rebuild)",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\UNIT (rebuild).csproj",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\UNIT (rebuild).csproj",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\UNIT (rebuild).csproj",
+              "RelativeToolTip": "UNIT (rebuild)\\UNIT (rebuild).csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-01T05:50:15.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Ground.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Ground.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\MapObjects\\Ground.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\Ground.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\MapObjects\\Ground.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "UNITER.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\UNITER.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\MapObjects\\UNITER.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\MapObjects\\UNITER.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\MapObjects\\UNITER.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Maps\\Map.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Maps\\Map.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Maps\\Map.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Maps\\Map.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.464Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ICollide.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Engine\\Interfaces\\ICollide.cs",
+              "RelativeDocumentMoniker": "UNIT (rebuild)\\Engine\\Interfaces\\ICollide.cs",
+              "ToolTip": "C:\\Users\\Asus\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\KASU\\C#\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438\\\u041B\u0430\u0431\u043E\u0440\u043E\u0442\u043E\u0440\u043A\u0438 2 \u043A\u0443\u0440\u0441\\UNIT\\UNIT FINAL\\UNIT (rebuild)\\UNIT (rebuild)\\Engine\\Interfaces\\ICollide.cs",
+              "RelativeToolTip": "UNIT (rebuild)\\Engine\\Interfaces\\ICollide.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-17T09:12:45.773Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

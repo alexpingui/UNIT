@@ -1,0 +1,252 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{B27E5104-A006-4F25-AD6F-ADE7E55DF1A3}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>UNIT_rebuild</RootNamespace>
+    <AssemblyName>UNIT %28rebuild%29</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>ИГРОК_1.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration.Install" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Engine\Interfaces\ICollide.cs" />
+    <Compile Include="Engine\Interfaces\INotDeathCollide.cs" />
+    <Compile Include="Engine\Level.cs" />
+    <Compile Include="Engine\Physics.cs" />
+    <Compile Include="Enums\PortalType.cs" />
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Installer1.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Installer1.Designer.cs">
+      <DependentUpon>Installer1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MapObjects\BackGround.cs" />
+    <Compile Include="MapObjects\Obstacles\Block.cs" />
+    <Compile Include="MapObjects\Ground.cs" />
+    <Compile Include="MapObjects\Obstacles\Finish.cs" />
+    <Compile Include="MapObjects\Obstacles\Orb.cs" />
+    <Compile Include="MapObjects\Obstacles\Pad.cs" />
+    <Compile Include="Enums\OrbType.cs" />
+    <Compile Include="Enums\ObstacleType.cs" />
+    <Compile Include="MapObject.cs" />
+    <Compile Include="MapObjects\Obstacles\Portal.cs" />
+    <Compile Include="MapObjects\Obstacles\Spike.cs" />
+    <Compile Include="Enums\PadType.cs" />
+    <Compile Include="MapObjects\Obstacles\Start.cs" />
+    <Compile Include="MapObjects\Samples\HalfBlock.cs" />
+    <Compile Include="MapObjects\Samples\OrbSample.cs" />
+    <Compile Include="MapObjects\Samples\PadSample.cs" />
+    <Compile Include="MapObjects\Samples\Sample.cs" />
+    <Compile Include="MapObjects\Samples\WholeBlock.cs" />
+    <Compile Include="MapObjects\UNITER.cs" />
+    <Compile Include="Maps\Map.cs" />
+    <Compile Include="Maps\MAP_1.cs" />
+    <Compile Include="Transform.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>PublicResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BG.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BLOCK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\GROUND.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HALF_BLOCK.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ORB.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PAD.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SPIKE_MAX.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SPIKE_MIN.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ИГРОК_1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Старт_Главное_меню.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Cтарт_Главное_меню.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.7.2">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.7.2 %28x86 и x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LevelPlay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LevelPlayInvert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainMenuBack.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainMenuExit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainMenuExitInvert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainPlay.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainPlayInvert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Pause.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PauseInvert.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Finish.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Start.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="icons8-geometry-dash-512.ico" />
+    <Content Include="ИГРОК_1.ico" />
+    <None Include="Resources\YouWin.png" />
+    <None Include="Resources\blow22.png" />
+    <None Include="Resources\blow21.png" />
+    <None Include="Resources\blow20.png" />
+    <None Include="Resources\blow19.png" />
+    <None Include="Resources\blow18.png" />
+    <None Include="Resources\blow17.png" />
+    <None Include="Resources\blow16.png" />
+    <None Include="Resources\blow15.png" />
+    <None Include="Resources\blow14.png" />
+    <None Include="Resources\blow13.png" />
+    <None Include="Resources\blow12.png" />
+    <None Include="Resources\blow11.png" />
+    <None Include="Resources\blow10.png" />
+    <None Include="Resources\blow9.png" />
+    <None Include="Resources\blow8.png" />
+    <None Include="Resources\blow7.png" />
+    <None Include="Resources\blow6.png" />
+    <None Include="Resources\blow5.png" />
+    <None Include="Resources\blow4.png" />
+    <None Include="Resources\blow3.png" />
+    <None Include="Resources\blow2.png" />
+    <None Include="Resources\blow1.png" />
+    <None Include="Resources\png-clipart-pixel-art-nyan-cat-text-orange-thumbnail.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
